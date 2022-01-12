@@ -28,3 +28,4 @@ Here is a simple footnote[^1]
 
 Even if I write the reference footnote in the middle of my text, it will render at the bottom of the page. Cool
 
+This is a change that I will add in a new branch
