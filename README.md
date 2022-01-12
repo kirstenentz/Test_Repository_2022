@@ -21,3 +21,10 @@ This is an image ![Image of a dog](https://post.medicalnewstoday.com/wp-content/
 - [x] This is a task I have completed
 
 :atom: This is an emoji of an atom
+
+Here is a simple footnote[^1]
+
+[^1]: My reference
+
+Even if I write the reference footnote in the middle of my text, it will render at the bottom of the page. Cool
+
